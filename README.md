@@ -16,6 +16,7 @@ This project showcases my data analytics skills, covering the entire data pipeli
 - Utilized SQL aggregate functions to calculate case fatality and recovery rates.
 - Performed joins and subqueries to compare trends across countries and continents.
 - Used CTEs, Temp Tables, and Window Functions for advanced data analysis.
+
 📈 **Outcome:** Identified trends, peak case periods, and regional variations in COVID-19 impact.
 
 ### 2️⃣ **Data Visualization – COVID-19 Insights in Tableau**
@@ -26,6 +27,7 @@ This project showcases my data analytics skills, covering the entire data pipeli
 - Designed a dynamic **dashboard** showcasing total cases, deaths, and recovery trends globally.
 - Created **bar charts, heatmaps, and time series** plots to visualize infection rates across countries.
 - Implemented **filters and drill-down options** to allow user-driven insights.
+
 📈 **Outcome:** An interactive, visually appealing dashboard that effectively conveys COVID-19 trends.
 
 ### 3️⃣ **Data Cleaning using SQL – Nashville Housing Data**
@@ -37,6 +39,7 @@ This project showcases my data analytics skills, covering the entire data pipeli
 - Removed duplicate records to maintain data integrity.
 - Filled missing values and corrected inconsistent entries.
 - Split and transformed address data for better usability.
+
 📈 **Outcome:** A structured, clean dataset ready for data-driven real estate insights.
 
 ### 4️⃣ **Correlation Analysis using Python – Movies Dataset**
@@ -47,4 +50,5 @@ This project showcases my data analytics skills, covering the entire data pipeli
 - Conducted **exploratory data analysis (EDA)** on a movie dataset.
 - Used **correlation heatmaps** to examine relationships between movie ratings, revenue, and budget.
 - Identified significant factors affecting box office performance.
+
 📈 **Outcome:** Provided data-driven insights on what contributes to a movie’s success.
