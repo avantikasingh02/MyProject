@@ -76,8 +76,9 @@ This project showcases my **data analytics skills**, covering the entire data pi
 
 4️⃣ Run Python Analysis
 - Install dependencies:
-  **pip install pandas matplotlib seaborn**
-
+  ```
+  pip install pandas matplotlib seaborn
+  ```
 ## 🏆 Key Takeaways
 
 ✅ Hands-on experience with **data manipulation**, **transformation**, and **visualization**. <br>
