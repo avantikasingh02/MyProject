@@ -62,10 +62,10 @@ This project showcases my **data analytics skills**, covering the entire data pi
 ## 🚀 How to Run This Project
 
 1️⃣ Clone the Repository
-```sh
+```
    git clone https://github.com/yourusername/data-analytics-portfolio.git
    cd data-analytics-portfolio
-
+```
 2️⃣ Run SQL Queries
 - Open **SQL Server Management Studio (SSMS)**.
 - Import the dataset and execute the provided SQL scripts.
