@@ -65,7 +65,7 @@ This project showcases my **data analytics skills**, covering the entire data pi
 ```sh
    git clone https://github.com/yourusername/data-analytics-portfolio.git <br>
    cd data-analytics-portfolio
-
+```sh
 2️⃣ Run SQL Queries
 - Open **SQL Server Management Studio (SSMS)**.
 - Import the dataset and execute the provided SQL scripts.
