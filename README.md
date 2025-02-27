@@ -63,8 +63,8 @@ This project showcases my **data analytics skills**, covering the entire data pi
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/data-analytics-portfolio.git <br>
-cd data-analytics-portfolio
+   git clone https://github.com/yourusername/data-analytics-portfolio.git <br>
+   cd data-analytics-portfolio
 
 2️⃣ Run SQL Queries
 - Open **SQL Server Management Studio (SSMS)**.
