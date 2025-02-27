@@ -80,10 +80,10 @@ cd data-analytics-portfolio
 
 ## 🏆 Key Takeaways
 
-✅ Hands-on experience with **data manipulation**, **transformation**, and **visualization**.
-✅ Used SQL for **querying**, **data cleaning**, and **advanced analytics**.
-✅ Developed **interactive Tableau dashboards** for storytelling.
-✅ Applied **Python for statistical analysis and visualization**.
+✅ Hands-on experience with **data manipulation**, **transformation**, and **visualization**. <br>
+✅ Used SQL for **querying**, **data cleaning**, and **advanced analytics**. <br>
+✅ Developed **interactive Tableau dashboards** for storytelling. <br>
+✅ Applied **Python for statistical analysis and visualization**. <br>
 
 ## 📜 Conclusion
 
