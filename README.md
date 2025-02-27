@@ -62,7 +62,7 @@ This project showcases my **data analytics skills**, covering the entire data pi
 ## 🚀 How to Run This Project
 
 1️⃣ Clone the Repository
-
+```sh
    git clone https://github.com/yourusername/data-analytics-portfolio.git <br>
    cd data-analytics-portfolio
 
